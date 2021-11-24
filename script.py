@@ -74,9 +74,9 @@ def binary_coding_part_2():
 ### TEST AREA
 
 # PART 1
-#print(binary_coding_part_1())
+print(binary_coding_part_1())
 ## OUTPUT: 880
 
 # PART 2
-#print(binary_coding_part_2())
+print(binary_coding_part_2())
 ##OUTPUT: 731
